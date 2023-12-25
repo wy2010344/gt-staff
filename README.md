@@ -1,1 +1,1 @@
-# gt-staff
+# gt-staff## Installation```Metacello new	repository: 'github://wy2010344/gt-staff:main/src';	baseline: 'GtStaff';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfGtStaff asClass loadLepiter```
